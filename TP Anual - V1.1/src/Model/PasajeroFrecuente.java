@@ -8,6 +8,6 @@ public class PasajeroFrecuente {
 	private String categoria;
 
 //gett
-	// juan comment
+	// juan comments
 
 }
