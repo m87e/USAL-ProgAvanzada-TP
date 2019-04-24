@@ -6,6 +6,8 @@ public class PasajeroFrecuente {
 	private String aerolinea; // ObjetoAerolinea?
 	private String numero;
 	private String categoria;
+
+//gett
 	
 	
 }
