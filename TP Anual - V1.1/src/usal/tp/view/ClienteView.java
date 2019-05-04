@@ -1,4 +1,4 @@
-package View;
+package usal.tp.view;
 
 public class ClienteView {
 
