@@ -1,7 +1,7 @@
 package Controller;
 
-import Model.Cliente;
 import View.ClienteView;
+import usal.tp.model.Cliente;
 
 public class ClienteController {
 
